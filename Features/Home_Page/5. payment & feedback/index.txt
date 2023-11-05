@@ -1,0 +1,2 @@
+must include in index.jsp
+<%@ include file="card.jsp"%>
