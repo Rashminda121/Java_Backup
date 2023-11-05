@@ -18,7 +18,7 @@
 		<div class="box-container">
 
 			<div class="box"
-				style="background: url(./images/p4.jpg) no-repeat; background-size: cover; background-position: center;">
+				style="background: url(./images/p.jpg) no-repeat; background-size: cover; background-position: center;">
 				<div class="box1">
 					<h3 style="width: 100%; text-align: right; color: white;">
 						Secure Payments <br> with Paypal<br> <br> <span>Don't
