@@ -21,11 +21,10 @@
 				style="background: url(./images/p.jpg) no-repeat; background-size: cover; background-position: center;">
 				<div class="box1">
 					<h3 style="width: 100%; text-align: right; color: white;">
-						Secure Payments <br> with Paypal<br> <br> <span>Don't
-							have a papal account?<br>
-							<p style="color: #D1CFCF;">Click here to create paypal
+						Secure Payments <br> with Paypal<br><br>
+							<p style="color: #D1CFCF;">Don't
+							have a papal account?<br>Click here to create paypal
 								account</p>
-						</span>
 					</h3>
 				</div>
 
