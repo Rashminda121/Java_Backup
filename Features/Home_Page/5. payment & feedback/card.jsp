@@ -48,8 +48,7 @@
 				</div>
 				<div class="box4">
 					<a href="https://www.paypal.com/" class="btn"
-						style="width: 100%; margin-top: 14px; background-color: white; color: blue; font-weight: 500;"><span
-						class="ts" style="font-size: 14px; text-align: right;"></span>Feedback</a>
+						style="width: 100%; margin-top: 14px; background-color: white; color:#ff9933; font-weight: 500;">Feedback</a>
 				</div>
 
 			</div>
