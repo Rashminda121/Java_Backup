@@ -68,15 +68,12 @@
 						placeholder=" Enter pin code" required />
 				</div>
 			</div>
-
-			<div class="input-box address ">
+			<div class="input-box">
 				
-<!-- 				 <input type="text" -->
-<!-- 					placeholder="Enter the address" required /> -->
-				<textarea name="address" class="adesign" id="last_name"
-						name="last_name" required placeholder="Enter the address"></textarea>
-
+				<input type="text" name="address"  id="last_name" name="last_name"
+					placeholder="Enter the address" required />
 			</div>
+			
 			<button type="submit" class="bdesign">Submit</button>
 			<div class="login-link">
 				<p>
