@@ -1,0 +1,43 @@
+1.Organic Leeks
+	RS 570
+
+2.Organic Green Chilies
+	Rs 1,380.00
+
+3.Organic Pumpkin
+	Rs 270.00
+4.Organic Gotukola
+	Rs 135.00
+
+5.Organic Carrot
+	Rs 870.00
+
+6.Organic Cabbage
+	Rs 660.00
+
+7.Organic Cucumber
+	Rs 360.00
+
+8.Organic Dambala
+	Rs 870.00
+
+9.Organic Beetroot
+	Rs 700.00
+
+10.Organic Brinjals
+	Rs 1,040.00
+
+11.Organic Tomato
+	Rs 570.00
+
+12.Organic Ladies Fingers
+	Rs 490.00
+
+13.Organic Potato
+	Rs 700.00
+
+14.Organic Green Beans
+	Rs 1,080.00
+
+15.Organic Sweet Corn
+	Rs 390.00
