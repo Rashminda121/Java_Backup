@@ -279,9 +279,9 @@
 
             for(FeedbackDtls fdb:list)
             {%>
-                <li class="card">
+                <li class="card" style="padding:10px 15px;overflow-y:auto;">
                     <h2 style="color:#1FAB89"><%=fdb.getFeedname()%></h2>
-                    <p><span><%=fdb.getFeedmessage()%></span></p>
+                    <p ><span style="font-size: 15px;text-align: justify;"><%=fdb.getFeedmessage()%></span></p>
                 </li>
             <%
             }
