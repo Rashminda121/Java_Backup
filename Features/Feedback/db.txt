@@ -1,0 +1,6 @@
+table name feedback
+
+fdbkid
+fdbkname
+fdbkemail
+fdbkmessage
